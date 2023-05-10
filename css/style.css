@@ -33,6 +33,10 @@ body{
     color: rgb(173 181 189 / 75%)!important;
 }
 
+.bi:hover{
+    color: #FFF!important;
+}
+
 .float{
     right:25px; 
     position:fixed; 
@@ -53,8 +57,4 @@ body{
 
 .ms-3 {
     margin-left: 1rem!important;
-}
-
-@media (max-width: 992px){
-   
 }
